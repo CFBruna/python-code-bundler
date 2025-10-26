@@ -38,7 +38,7 @@ To generate the executable from the source code, `PyInstaller` is required.
 pip install pyinstaller
 
 pyinstaller --onefile --noconsole code_bundler.py
+```
 
 ## 📄 License
-
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
