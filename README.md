@@ -12,7 +12,7 @@ This tool was created to solve a common workflow challenge: gathering all source
 
 This is the easiest method and does not require a Python installation.
 
-1.  Download the `code_bundler.exe` file from the repository.
+1.  **Download the executable** from the project's official **[Releases page](https://github.com/CFBruna/python-code-bundler/releases/latest)**.
 2.  Double-click the file to run it.
 3.  Follow the on-screen dialogs:
     * First, select the root folder where your projects are located (e.g., `D:\Projects`).
